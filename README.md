@@ -1,2 +1,4 @@
-# cpp-banking-19
+# Cpp Banking 19
+
 A console banking deposit/withdrawal utility in C++.
+
