@@ -7,3 +7,5 @@ Clone this project and look at the source files:
 - `main.cpp`
 - `bank.h`
 - `bank.cpp`
+
+*Initialized by Liam-Carter12 workspace automation.*
